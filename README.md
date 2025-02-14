@@ -6,21 +6,19 @@
   * allows, 👀based on a structured data model, -- building -- 👀
     * tools
     * other applications (runtime support)
-      * set of Java classes for the model
+      * set of Java classes -- for the -- model
       * set of adapter classes / enable, about the model, 
         * view it
         * command-based editing
       * basic editor
   * EMF-based tools1 & applications1 -- have interoperability with -- EMF-based tools2 & applications2  
 * structured data model
-  * specification -- described in --
-    * XMI,
-    * EMF
+  * specification -- described in -- XMI
   * can be specified -- via --
     * annotated Java,
     * XML documents,
     * Xcore,
-    * graphical modeling tools
+    * graphical modeling tools (_Example:_ [Rational Rose](https://www.ibm.com/support/pages/ibm-rational-rose-enterprise-7004-fix-pack-4-7000))
   * uses 
     * specify it
     * import | EMF
