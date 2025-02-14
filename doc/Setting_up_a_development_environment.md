@@ -1,0 +1,1 @@
+https://wiki.eclipse.org/EMF/Setting_up_a_development_environment

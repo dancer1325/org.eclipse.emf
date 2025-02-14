@@ -1,0 +1,1 @@
+https://wiki.eclipse.org/Dynamic_Browsing_and_Instantiation_Capabilites_in_EMF

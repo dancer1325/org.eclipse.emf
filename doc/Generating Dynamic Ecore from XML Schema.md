@@ -1,0 +1,1 @@
+https://wiki.eclipse.org/Generating_Dynamic_Ecore_from_XML_Schema

@@ -1,0 +1,1 @@
+https://wiki.eclipse.org/Authoring_XML_Schemas_for_use_with_EMF
